@@ -4,4 +4,4 @@ This repository is just to write the code available on learnChemE (https://sites
 # Table of Contents
 # [Section 1.0 Kinetic/Reactor Design ](https://github.com/jeff-ball/LearnChemE-jupyter-notebooks/tree/main/kinetics-reactor-design)
 * [1.1 Batch Reactor with Multiple Reactions](https://github.com/jeff-ball/LearnChemE-jupyter-notebooks/blob/main/kinetics-reactor-design/Batch%20Reactor%20with%20Multiple%20Reactions.ipynb)
-* [1.2 Batch Reactor with Multiple Reactions (Julia version).ipynb](https://github.com/jeff-ball/LearnChemE-jupyter-notebooks/blob/main/kinetics-reactor-design/Batch%20Reactor%20with%20Multiple%20Reactions%20(Julia%20version).ipynb)
+* [1.2 Batch Reactor with Multiple Reactions (Julia version)](https://github.com/jeff-ball/LearnChemE-jupyter-notebooks/blob/main/kinetics-reactor-design/Batch%20Reactor%20with%20Multiple%20Reactions%20(Julia%20version).ipynb)
